@@ -1,0 +1,12 @@
+{
+  "url": "https://chroniclingamerica.loc.gov/",
+  "final_url": "https://chroniclingamerica.loc.gov/",
+  "status": 200,
+  "title": "Chronicling America (LOC Newspapers)",
+  "bytes": 100091,
+  "sha256": "e75cd085c563058617f174e71b144b4640fc28ac53b10ce01e62baf74aea4ba3",
+  "captured_at": "2026-11-22T20:26:17.057583Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
