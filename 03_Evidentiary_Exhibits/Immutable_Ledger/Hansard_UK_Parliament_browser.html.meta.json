@@ -1,12 +1,13 @@
 {
   "url": "https://hansard.parliament.uk/",
   "final_url": "https://hansard.parliament.uk/",
-  "status": 200,
   "title": "Hansard - UK Parliament",
   "bytes": 48434,
   "sha256": "f753734bbadc14e5ad4aedfcffcbba4ee4811ccedad22ab363e6e1229ce4befd",
   "captured_at": "2026-11-22T20:26:39.521746Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
