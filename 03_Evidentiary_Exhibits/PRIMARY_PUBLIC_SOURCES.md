@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [UK National Archives - Slave Trade](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/)
 - [UK Parliament - Slavery Abolition](https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/)
 - [Legacies of British Slavery (UCL)](https://www.ucl.ac.uk/lbs/)
@@ -23,3 +22,5 @@
 - [SlaveVoyages](https://www.slavevoyages.org/)
 - [UNESCO Routes of Enslaved Peoples](https://www.unesco.org/en/routes-enslaved-peoples)
 - [Library of Congress - Slavery Resources](https://guides.loc.gov/slavery)
+- [The National Archives Discovery](https://discovery.nationalarchives.gov.uk/)
+- [Hansard UK Parliament](https://hansard.parliament.uk/)

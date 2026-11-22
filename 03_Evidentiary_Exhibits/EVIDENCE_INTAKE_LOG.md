@@ -30,6 +30,18 @@
 | 2026-11-22 | UNESCO Routes of Enslaved Peoples | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | Remote end closed connection without response |
 | 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
 
+| 2026-11-22 | British Library - Slavery Resources | https://www.bl.uk/collection-guides/abolition-of-the-slave-trade-and-slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UNESCO Routes of Enslaved Peoples | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | The_National_Archives_Discovery.html | https://discovery.nationalarchives.gov.uk/ | OpenCode/harvest | 0592b62376dbd492e10a19ea9089361a962d29b23960c6da7a372113d153ddde | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=48240 |
+| 2026-11-22 | Hansard UK Parliament | https://hansard.parliament.uk/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
