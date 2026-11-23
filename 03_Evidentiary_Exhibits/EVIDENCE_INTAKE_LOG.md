@@ -51,6 +51,16 @@
 | 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=26594 final_url=https://digitallibrary.un.org/ |
 | 2026-11-22 | UNESCO_Routes_of_Enslaved_Peoples_browser.html | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/browser-fallback | f6e36e9c1f0918dbf81b4068d0fcf4ec0a1fe46c8f74dcee0eeccb7266fc67b9 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=100107 final_url=https://www.unesco.org/en/routes-enslaved-peoples |
 
+| 2026-11-22 | Legislation.gov.uk_-_Slavery_Abolition_Act_1833.html | https://www.legislation.gov.uk/ukpga/Will4/3-4/73/contents | OpenCode/harvest | 21cff9d4f0daaa3e54b788f7804684bb0e283fea6265557a37b021df0385c445 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=25517 final_url=https://www.legislation.gov.uk/ukpga/Will4/3-4/73/contents |
+
+| 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | UN_OHCHR_racial_discrimination_browser.html | https://www.ohchr.org/en/topic/racism-racial-discrimination | OpenCode/browser-fallback | 058b5844305991cfcd722f2fa59e77fdbdbe98cc09e14440577a6fdc251cff0a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/topic/racism-racial-discrimination |
+
+| 2026-11-22 | UK_Parliament_-_slavery_abolition_records_browser.html | https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ | OpenCode/browser-fallback | ec29032f5489b900f160cd9d31b32e57861ad0ffbf35233c5a8c3a2dfa20e2db | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=25602 final_url=https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ |
+
+| 2026-11-22 | Library_of_Congress_-_British_slavery_browser.html | https://www.loc.gov/item/?q=british+slave+trade | OpenCode/browser-fallback | 34d0dc4b1c3dc94ee128f915be255e21bf4bd9cdd2198b8ab4530f136d12fd9f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=british+slave+trade |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
