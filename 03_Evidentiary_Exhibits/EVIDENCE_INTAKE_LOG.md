@@ -57,9 +57,9 @@
 
 | 2026-11-22 | UN_OHCHR_racial_discrimination_browser.html | https://www.ohchr.org/en/topic/racism-racial-discrimination | OpenCode/browser-fallback | 058b5844305991cfcd722f2fa59e77fdbdbe98cc09e14440577a6fdc251cff0a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/topic/racism-racial-discrimination |
 
-| 2026-11-22 | UK_Parliament_-_slavery_abolition_records_browser.html | https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ | OpenCode/browser-fallback | ec29032f5489b900f160cd9d31b32e57861ad0ffbf35233c5a8c3a2dfa20e2db | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=25602 final_url=https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ |
+| 2026-11-22 | UK_Parliament_-_slavery_abolition_records_browser.html | https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ | OpenCode/browser-fallback | ec29032f5489b900f160cd9d31b32e57861ad0ffbf35233c5a8c3a2dfa20e2db | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=25602 final_url=https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
-| 2026-11-22 | Library_of_Congress_-_British_slavery_browser.html | https://www.loc.gov/item/?q=british+slave+trade | OpenCode/browser-fallback | 34d0dc4b1c3dc94ee128f915be255e21bf4bd9cdd2198b8ab4530f136d12fd9f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=british+slave+trade |
+| 2026-11-22 | Library_of_Congress_-_British_slavery_browser.html | https://www.loc.gov/item/?q=british+slave+trade | OpenCode/browser-fallback | 34d0dc4b1c3dc94ee128f915be255e21bf4bd9cdd2198b8ab4530f136d12fd9f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=british+slave+trade | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
