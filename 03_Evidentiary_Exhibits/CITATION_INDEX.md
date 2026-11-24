@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `e75cd085c5630586...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `e919627b8495ac37...` | PENDING_LEGAL_REVIEW
@@ -24,3 +24,8 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0020: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW
 - CIT-0021: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0022: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `cbcc30f035e9fb80...` | PENDING_LEGAL_REVIEW
+- CIT-0023: https://www.legislation.gov.uk/ukpga/Will4/3-4/73/contents | `03_Evidentiary_Exhibits/Immutable_Ledger/Legislation.gov.uk_-_Slavery_Abolition_Act_1833.html` | `21cff9d4f0daaa3e...` | PENDING_LEGAL_REVIEW
+- CIT-0024: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
+- CIT-0025: https://www.loc.gov/item/?q=british+slave+trade | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_British_slavery_browser.html` | `0c207693a8d9daa1...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0026: https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/africa/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UK_Parliament_-_slavery_abolition_records_browser.html` | `80856b4309470a83...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0027: https://www.ohchr.org/en/topic/racism-racial-discrimination | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_racial_discrimination_browser.html` | `88bf45ea8bb53e57...` | PENDING_LEGAL_REVIEW
